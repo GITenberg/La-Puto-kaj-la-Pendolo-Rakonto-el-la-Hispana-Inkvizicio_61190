@@ -1,10 +1,13 @@
 _repo: La-Puto-kaj-la-Pendolo-Rakonto-el-la-Hispana-Inkvizicio_61190
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Pride, Alexander
     gutenberg_agent_id: '51303'
     url: http://www.gutenberg.org/2009/agents/51303
+covers:
+- cover_type: archival
+  image_path: 61190-h/images/cover.png
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61190#La-Puto-kaj-la-Pendolo-Rakonto-el-la-Hispana-Inkvizicio
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2020-01-17'
 gutenberg_type: Text
